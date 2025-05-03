@@ -5,6 +5,8 @@ Blockchain-Based Voting Poll
 
 ## Project Description
 A decentralized voting system built on the Stellar blockchain using Soroban smart contracts. This platform allows users to create polls, cast votes, and view results in a transparent, secure, and immutable manner. The system ensures that each eligible voter can only vote once per poll, and all voting activities are recorded on the blockchain for maximum transparency and security.
+![PAYMENTS ](https://github.com/user-attachments/assets/ec78d9ab-46d6-45b1-b16d-4ad82a7654da)
+
 
 ## Project Vision
 Our vision is to transform traditional voting systems by leveraging blockchain technology to address key challenges in current voting methods. By implementing a decentralized voting platform, we aim to eliminate voter fraud, reduce administrative costs, increase accessibility, and provide transparent, tamper-proof record keeping.
